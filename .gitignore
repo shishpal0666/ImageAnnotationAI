@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Environment Variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch/TensorFlow (if applicable in future)
+*.pt
+*.h5
+*.pb
+
+# macOS
+.DS_Store
