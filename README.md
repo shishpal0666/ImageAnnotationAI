@@ -1,2 +1,1 @@
-# Image Annotation AI
 # ImageAnnotationAI
