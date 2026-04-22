@@ -84,8 +84,6 @@ _Note: The base paper utilized LPP (8 components) for dimensionality reduction a
 
 The notebook generates a high-resolution 24x24 inch confusion matrix visualizing the model's performance across all 102 classes of the Caltech-101 dataset.
 
-![Confusion Matrix](Caltech102_Confusion_Matrix.png)
-
 ---
 
 ## 💻 Technologies & Tools
